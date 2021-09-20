@@ -1,4 +1,4 @@
-public class switchStatement {
+public class SwitchStatement {
     public static void main(String[] args) {
         int age;
         age = 20;
